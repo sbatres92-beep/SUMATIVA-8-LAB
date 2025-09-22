@@ -1,0 +1,23 @@
+
+
+Muchas personas desean llevar un control de su consumo de gasolina para administrar mejor sus gastos y calcular la eficiencia de su vehículo. 
+Sin una herramienta práctica, puede resultar tedioso estar haciendo cuentas manualmente cada vez que se llena el tanque.
+
+Tu tarea consiste en diseñar una aplicación con interfaz gráfica que permita ingresar:
+- Los kilómetros recorridos.
+- Los litros de gasolina consumidos.
+- El precio por litro de gasolina.
+
+La aplicación deberá mostrar:
+- El rendimiento del vehículo (km por litro).
+- El costo total del consumo.
+
+------------------------------------
+
+Solución desarrollada:
+
+Para resolver este problema se diseñó una aplicación en Python utilizando la librería PyQt5. 
+La interfaz gráfica incluye campos de entrada para los datos solicitados y un botón que, al presionarlo, realiza los cálculos de rendimiento y costo total. 
+El resultado se presenta en una ventana emergente para mayor claridad.
+
+De esta forma, se cumple el objetivo de ofrecer una herramienta sencilla, práctica y funcional para calcular el consumo de gasolina.
